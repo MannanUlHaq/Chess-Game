@@ -1,0 +1,24 @@
+﻿  Source.cpp
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(82): warning C4715: 'ROOK': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(157): warning C4715: 'rook': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(299): warning C4715: 'bishop': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(423): warning C4715: 'QUEEN': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(242): warning C4715: 'BISHOP': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(689): warning C4715: 'KING': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(547): warning C4715: 'queen': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(831): warning C4715: 'king': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1047): warning C4715: 'KINGCheck': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1120): warning C4715: 'ROOKCheck': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1242): warning C4715: 'QUEENCheck': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1309): warning C4715: 'BISHOPCheck': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1472): warning C4715: 'CheckMate': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1571): warning C4715: 'StaleMate': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1454): warning C4715: 'PossibleMove': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1671): warning C4715: 'kingCheck': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1744): warning C4715: 'rookCheck': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1868): warning C4715: 'queenCheck': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(1935): warning C4715: 'bishopCheck': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(2080): warning C4715: 'possiblemove': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(2098): warning C4715: 'checkmate': not all control paths return a value
+D:\Final Project (Chess Game)\Final Project (Chess Game)\Final Project (Chess Game)\Source.cpp(2197): warning C4715: 'stalemate': not all control paths return a value
+  Final Project (Chess Game).vcxproj -> D:\Final Project (Chess Game)\Final Project (Chess Game)\x64\Debug\Final Project (Chess Game).exe
